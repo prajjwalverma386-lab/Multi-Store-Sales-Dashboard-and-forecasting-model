@@ -14,3 +14,5 @@ This project analyzes multi-store sales performance using SQL, Python, and Power
 • Applied Python-based forecasting and trend analysis techniques.
 • Built an interactive Power BI dashboard for store-level performance monitoring.
 
+# Dashboard Preview 
+![dashboard_preview](dashboard_preview.png) 
