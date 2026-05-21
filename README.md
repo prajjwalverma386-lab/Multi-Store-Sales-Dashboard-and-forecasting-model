@@ -1,3 +1,6 @@
+# Dashboard Preview 
+![dashboard_preview](dashboard_preview.png) 
+
 # Multi-Store-Sales-Dashboard-and-forecasting-model
 This project analyzes multi-store sales performance using SQL, Python, and Power BI to identify seasonal demand patterns, cyclical sales behavior, top-performing stores, and forecasting trends across different business periods.
 
@@ -14,5 +17,4 @@ This project analyzes multi-store sales performance using SQL, Python, and Power
 • Applied Python-based forecasting and trend analysis techniques.
 • Built an interactive Power BI dashboard for store-level performance monitoring.
 
-# Dashboard Preview 
-![dashboard_preview](dashboard_preview.png) 
+
